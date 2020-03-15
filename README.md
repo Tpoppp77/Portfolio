@@ -7,7 +7,7 @@ Added images and links to social media as well as to other pages on the page.
 Included a form to help with interviews, requests, and contacting myself.
 
 
-Credits
+<h1>Credits<h1>
 
 
 None
@@ -15,13 +15,14 @@ None
 
 Features
 
-Nav Bar
-Card
-Form
-Bootstrap GRID System
+<ul>
+    <li>Nav Bar,</li>
+    <li>Card,</li>
+    <li>Form,</li>
+    <li>Bootstrap GRID System,</li>
+</ul>
 
-
-License
+<h1>License</H1>
 
 
 
