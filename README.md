@@ -1,11 +1,11 @@
-#Responsive Portfolio
+<h1>#Responsive Portfolio</h1>
 
 
-
-Created a portfolio for myself.
-Added images and links to social media as well as to other pages on the page.
-Included a form to help with interviews, requests, and contacting myself.
-
+<ul>
+    <ol>Created a portfolio for myself.</ol>
+    <ol>Added images and links to social media as well as to other pages on the page.</ol>
+    <ol>Included a form to help with interviews, requests, and contacting myself.</ol>
+</ul>
 
 <h1>Credits<h1>
 
@@ -13,7 +13,7 @@ Included a form to help with interviews, requests, and contacting myself.
 None
 
 
-Features
+<h1>Features</h1>
 
 <ul>
     <li>Nav Bar,</li>
