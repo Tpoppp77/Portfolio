@@ -1,16 +1,17 @@
 #Responsive Portfolio
 
+
+
 Created a portfolio for myself.
 Added images and links to social media as well as to other pages on the page.
 Included a form to help with interviews, requests, and contacting myself.
 
-Installation 
-
-Usage
 
 Credits
 
+
 None
+
 
 Features
 
@@ -19,11 +20,14 @@ Card
 Form
 Bootstrap GRID System
 
+
 License
+
+
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2020] [Thomas Christopher Popp-Olson]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
