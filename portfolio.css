@@ -1,3 +1,6 @@
+.navbar-brand {
+    color: maroon;
+}
 .card-title1 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: black;
@@ -6,6 +9,9 @@
 .portfolio {
     color: rgb(22, 95, 138);
 }
-.pro-1 {
+.pro-2 {
     color: red;
+}
+.pro-1 {
+    color: gold;
 }
